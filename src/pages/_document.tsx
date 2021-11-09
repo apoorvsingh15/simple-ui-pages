@@ -6,7 +6,6 @@ const MyDocument = () => {
   return (
     <Html>
       <Head>
-        <meta name="viewport" content="initial-scale=1, width=device-width" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter&display=optional"
           rel="stylesheet"
